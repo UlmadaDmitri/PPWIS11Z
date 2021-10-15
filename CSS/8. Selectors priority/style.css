@@ -1,0 +1,20 @@
+#unique{
+    background-color: darkkhaki;
+    border: 5px dotted yellow;
+}
+.element{
+    background-color: darkblue;
+    border: 2px dashed darkgoldenrod;
+}
+
+div{
+    width: 320px;
+    height: 60px;
+    background-color: darkgreen;
+    border: 1px solid red;
+}
+
+
+*{
+    border: 2px solid silver;
+}
