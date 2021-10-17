@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    background: url("../img/400199.jpg");
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 18px;
+}
+.card {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #fac8c8;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+    padding: 20px;
+}
+.card-photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: #7e01fc;
+}
+.card-text {
+    font-size: 20px;
+    color: purple;
+    padding: left;
+}
+.card-subtitle {
+    color: red;
+    text-align: center;
+}
+.card-skills {
+    color: green;
+    font-size: 25px;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.footer {
+    text-align: right;
+}
