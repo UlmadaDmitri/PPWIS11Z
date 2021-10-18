@@ -1,51 +1,51 @@
 body {
-  background-image: url(../img/2478754.png)
+  background-image: url(../img/EguL3l.jpg);
+  image-resolution: s
 }
 .link {
   font-size: 30px;
-    color: black;
+    color: red;
   padding: 10px;
 }
 .link1 {
   font-size: 30px;
-    color: black;
-  left: 200px;
+  left: 400px;
   position: relative;
   top: 150px;
-    color: red;
+    color: white;
       text-shadow: 1px 1px black;
 }
 .link2 {
   font-size: 30px;
-    color: black;
+    color: white;
   left: 600px;
   position: relative;
   top: 150px;
-  color: orange;
+
   text-shadow: 1px 1px black;
 }
 .link3 {
   font-size: 30px;
-    color: black;
-  left: 1000px;
+    color: white;
+  left: 800px;
   position: relative;
   top: 150px;
-  color: yellow;
+
   text-shadow: 1px 1px black;
 }
 .link4 {
   font-size: 30px;
-    color: black;
-  left: 1400px;
+    color: white;
+  left: 1000px;
   position: relative;
   top: 150px;
-  color: green;
+
   text-shadow: 1px 1px black;
 }
 section{
-    background-color: lightgrey;
+  background-color: white;
     grid-area: section;
-    min-height: 400px;
+  min-height: 710px;
   font-size: 100px;
   text-align: center;
   }
@@ -58,13 +58,19 @@ footer{
   font-size: 40px
 }
 header{
-    background-color: lightblue;
+    background-color: black;
     color: white;
     grid-area: header;
     height: 100px;
+  text-align: center;
+  font-size: 80px;
   }
 nav{
-    background-color: violet;
-    grid-area: nav;
-    height: 70px;
+    background-color: black;
+ text-align: center;
+  font-size: 50px;
+  color:
+}
+.buttoncolor {
+  color: white;
 }
