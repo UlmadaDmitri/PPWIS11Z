@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(https://intranet.birmingham.ac.uk/staff/images/brand/download/Aston-Webb.jpg);
+}
+table {width: 60%; border-collapse: collapse; margin-left: 380px;}
+table thead tr {color: #ffffff; font-weight: bold; background: #00bf80;}
+table thead tr td {border: 1px solid #01ab73;}
+table tbody tr td {border: 1px solid #e8e9eb;}
+table tbody tr:nth-child(1n) {background: #f4f4f4;}
+table tbody tr:hover {background: #ebffe8;}
+section {
+    margin-top: 50px;
+}
+p {
+    font-size: 50px;
+    text-align: center;
+    border: 5px solid #01ab73 ;
+    width: 400px;
+    margin-left: 730px;
+    background-color: #ffffff;
+}
+a {
+    margin-left: 740px;
+}
+.d7 {background: #01ab73 transparent 100%;}
+.d7:after {content:""; clear:both; display:table}
+.d7 form {
+  width: auto;
+  float: right;
+  margin-right: 730px;
+}
+.d7 input {
+  width: 500px;
+  height: 42px;
+  padding-left: 15px;
+  border-radius: 42px;
+  border: 2px solid #324b4e;
+  background: #F9F0DA;
+  outline: none;
+  position: relative;
+  transition: .3s linear;
+}
